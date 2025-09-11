@@ -3,3 +3,4 @@ Today, I scripted TTS program with specific voices. The function there gets inpu
 At first, I couldn't find appropriate libraries that have both voice deepfake functionalities and tts functionalities. 
 I almost thought of combining two different libraries together, but I could find one by researching in reddit and stack overflow. 
 In total, I have STT (I made it like 2 weeks ago with fast-whisper) and TTS. 
+PS I also solved some problems in a competition called NYPC, and you can check it probably above this file.
