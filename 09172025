@@ -1,0 +1,13 @@
+I AM REALLY SORRY I FORGOT TO UPLOAD 0916 JOUNRAL AGAIN
+Dear Journal,
+Today, I worked on AI after afterschool KSS class (does it make sense by the way)
+Here are the things I did:
+- Using try/except, block the runtime error
+when unsupported/corrupted file comes as an input
+- Any recordings longer than 30 seconds are now sliced
+- Resample the recording to 24kHz to increase usage efficiency
+- Organize files by automatically deleting them after the function
+- Use the first speaker when multiple speakers are in the recording
+I am kinda glad about that since I thought I only could implement 
+the background noise/sounds deleting function, but I could do more than that.
+There were much more functionalities and libraries than I expected>:)
