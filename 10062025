@@ -1,0 +1,7 @@
+Dear Journal,
+In this journal, I am only going to write about my idea:
+Bruteforcing machine learning -> Create a linear function (y=ax+b)
+Use test cases or data, in order to find the function with the best accuracy.
+Set variable a's maximum and minimum value, and the decimal points. 
+Then, save all the functions that goes through the point in the dataset, and go to the next data.
+Repeat that a lot of times, then find the function that appeared the most.
