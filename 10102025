@@ -3,3 +3,26 @@ I am so sorry how the journal yesterday failed to be uploaded.
 However, for today and yesterday, I worked on AIs a lot in order to complete my FIRST machine learning algorithm.
 Currently, I am using bruteforcing as the root (yes, I know it is not efficient) and I am finally done with the linear function building.
 I am going to add other types of functions and optimize my current algorithm and also learn more about deep learning.
+
+
+game genre - roguelike
+basic story - 
+Retro figures have declared a war to the modern players.. 
+In the old maps (such as the crossroad or the roblox HQ), the modern players should fight aganist the retro-styled enemies.
+places -
+- Round (or also Match)
+ - where players actually "play" the game.
+ - a round can be joined by maximum 8 people, and it is divided into chapters and waves
+- Lobby
+ - the place where the player will stay other than the rounds
+ - there are some structures where players can enhance their gears and maintain their status
+mechanics - 
+-8 players can join at once
+-There are chapters divided, and by the chapters, the maps and the enemies change.
+-Blacksmith is a npc in the lobby and it ables the players to upgrade their equipments, craft new items, and enchant those.
+ - enchanting grants buffs or special abilities that depends on the item where the enchantment is
+ - enchanting is done by an item called enchanting stone, and the type and the materials to make the stones all differ.
+-Every chapter, there are 20 waves, and there are unique mobs spawning at 5th,10th,15th waves and the boss spawning at 20th wave.
+-Throughout the waves, players will obtain items from the mobs or from the map in order to enhance their basic weapons or armories.
+-There are gears that players can equip before joining a round (They can be obtained from the mobs or a gacha machine located at the lobby)
+  -gears will grant either special skills, unlock specific abilities, stat buffs, or increased drop rate of certain items
